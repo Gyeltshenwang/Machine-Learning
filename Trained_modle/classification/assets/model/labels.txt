@@ -1,0 +1,4 @@
+0 Early Blight
+1 Healthy
+2 Late Blight
+3 Unknown
