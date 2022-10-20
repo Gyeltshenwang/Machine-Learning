@@ -1,6 +1,6 @@
 import splitfolders
 
-input_folder = "data"
+input_folder = "Dzo_MNIST"
 
-splitfolders.ratio(input_folder, output="drowsiness",
-ratio=(.8,.1,.1))
+splitfolders.ratio(input_folder, output="mnist",
+ratio=(.8,.2))
