@@ -1,6 +1,6 @@
 # Machine-Learning
 machine learning from beginner to intermediate
-# python-for-100days Challenge
+# ML and Dl
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
